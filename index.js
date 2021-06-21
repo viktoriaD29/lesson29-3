@@ -10,4 +10,3 @@ export const printing = () => {
   console.log(5)
 }
 printing()
-console.log(6)
